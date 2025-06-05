@@ -1,0 +1,30 @@
+2. Editor de Pixel Art
+Por que é legal?
+
+    É muito visual.
+
+    Exige manipulação dinâmica de DOM e eventos.
+
+    Dá pra implementar várias ferramentas (pincel, borracha, preencher cor).
+
+    Dá pra salvar a imagem criada e exportar como .png se quiser.
+
+O que precisa fazer:
+
+    Criar uma grade (grid) de "pixels" clicáveis.
+
+    Sistema pra escolher a cor atual.
+
+    Sistema pra pintar ao clicar e arrastar.
+
+    Talvez um sistema de camadas (mais avançado).
+
+    Botão "limpar", "salvar".
+
+→ Isso vai te forçar a:
+
+    Pensar na estrutura de componentes.
+
+    Mexer bem com eventos de mouse (mousedown, mousemove, etc.).
+
+    Criar uma lógica de "estado atual" (cor, ferramenta, etc.).

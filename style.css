@@ -1,0 +1,64 @@
+* {
+  margin: 0px;
+
+}
+.color {
+    display: grid;
+    grid-template-columns: repeat(8, 50px); 
+    grid-template-rows: repeat(8, 50px);   
+    align-items: center;
+    justify-content: center;
+  }
+  
+.quadrado {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000000fb; 
+    background-color:   rgba(211, 225, 255, 0.938); 
+  }
+.red { 
+  background-color: red; 
+  width: 40px; 
+  height: 40px; 
+  border: 1px solid #575757; 
+}
+.black { 
+  background-color: black; 
+  width: 40px; 
+  height: 40px;
+  border: 1px solid #575757; 
+}
+.white { 
+  background-color: white; 
+  width: 40px; 
+  height: 40px;
+  border: 1px solid #575757; 
+}
+.cores {
+  position: absolute;  
+  top: 0;             
+  right: 0;         
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: flex-start;
+  background-color: black;
+  height: 100;
+  margin: 20px;
+}
+.tool {
+  position: relative;
+}
+.pinceis { 
+  position: absolute;  
+  top: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  background-color: black;
+  height: 100;
+  margin: 20px;
+}
+.tirarBorda { 
+  width: 40px; 
+  height: 40px; 
+}
