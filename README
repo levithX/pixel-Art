@@ -1,0 +1,20 @@
+O que é esse projeto?
+
+Esse é um site simples para criar pixel art usando um grid em CSS. A ideia principal era aprender e praticar como funciona o CSS Grid, construindo algo prático e visual.
+O que ele faz?
+
+    -> Permite pintar células de um grid para montar imagens pixeladas.
+
+   -> Interface básica, focada no uso do grid para posicionamento e controle dos pixels.
+
+   -> Ainda está simples porque não foi o foco terminar tudo, mas já cumpre o objetivo principal.
+
+O que eu aprendi?
+
+    -> Entendi como funciona o CSS Grid na prática, controlando linhas, colunas e áreas.
+
+    -> Trabalhei com interações simples em JavaScript para pintar as células do grid.
+
+    -> Aprimorei o entendimento sobre manipulação dinâmica do layout usando CSS moderno.
+
+desing dele e simpes devido o meu intuito nao e deixar algo bem bonito, eu nao gosto muito de mexer no css. 
